@@ -1,0 +1,9 @@
+[package]
+name = "ternary-games"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Game theory for ternary agents — payoff matrices, Nash equilibria, and strategic reasoning"
+repository = "https://github.com/SuperInstance/ternary-games"
+keywords = ["game-theory", "nash-equilibrium", "ternary", "payoff-matrix"]
+categories = ["mathematics", "algorithms"]
