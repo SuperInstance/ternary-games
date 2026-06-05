@@ -119,3 +119,11 @@ Pure Rust, no unsafe code, no external dependencies. The entire implementation i
 ## License
 
 MIT
+
+## See Also
+- **ternary-game-theory** — related
+- **ternary-arena** — related
+- **ternary-scoring** — related
+- **ternary-auction** — related
+- **ternary-voting** — related
+
